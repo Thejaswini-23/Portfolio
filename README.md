@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Guntur Thejaswini | Portfolio</title>
+  <title>Portfolio</title>
 </head>
 <body>
 
